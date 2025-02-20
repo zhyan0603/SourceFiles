@@ -22,7 +22,7 @@ def read_msd_file(msd_file):
 def get_conversion_factor(structure_volume, species_charge, num_ions, temperature):
     """
     Conversion factor to convert between cm^2/s diffusivity measurements and
-    mS/cm conductivity measurements based on number of atoms of diffusing
+    S/cm conductivity measurements based on number of atoms of diffusing
     species.
     """
     z = species_charge
@@ -313,5 +313,5 @@ plt.text(2.360, -1.6, f'E$_a$ = 0.425 eV', rotation=-6.5, fontsize=9, color=f'C3
 plt.text(2.360, 1.83825, f'E$_a$ = 0.263 eV', rotation=-4, fontsize=9, color=f'C4')
 
 plt.tight_layout()  
-#plt.show()
-plt.savefig('Figure4_Arrhenius.pdf')
+plt.show()
+#plt.savefig('Figure4_Arrhenius.pdf')
