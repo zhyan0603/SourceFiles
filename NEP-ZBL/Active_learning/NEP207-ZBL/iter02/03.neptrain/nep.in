@@ -1,0 +1,8 @@
+type          4 Li La Zr O 
+version       4      
+cutoff        6 4   
+neuron        30      
+zbl           1.8
+batch         200    
+population    50     
+generation    100000 

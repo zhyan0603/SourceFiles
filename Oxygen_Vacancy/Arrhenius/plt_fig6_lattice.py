@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# 定义文件夹字典
 folders = {
     "pristine": "./pristine/get_lattice",
     "O_vac": "./O_vac/get_lattice",
@@ -13,10 +12,8 @@ folders = {
     "removeO_4Ovac": "./removeO_4Ovac/get_lattice"
 }
 
-# 初始化一个字典来保存数据
 data = {}
 
-# 颜色和标记定义
 colors = {
     "pristine": "C0",
     "2O_vac": "C2",

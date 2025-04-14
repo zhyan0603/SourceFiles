@@ -3,15 +3,13 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 
 ### Available Research Papers:
 
----
-
 - **[Paper 1]**  
   - **Title**: Impact of Lithium Nonstoichiometry on Ionic Diffusion in Tetragonal Garnet-Type Li7La3Zr2O12
   - **Link**: [https://doi.org/10.1021/acs.chemmater.4c02454](https://doi.org/10.1021/acs.chemmater.4c02454)
   - **Cite this**: *Chem. Mater.* 2024, 36, 23, 11551–11557
   - **Dataset**: [Oxygen_Vacancy](./Oxygen_Vacancy/README.md)
 - **[Paper 2]**  
-  - **Title**: Short-Range Repulsion Matters: A Case Study of Garnet-type Li7La3Zr2O12 Solid-state Electrolyte
+  - **Title**: Improving robustness and training efficiency of machine-learned potentials in solid electrolyte materials by incorporating the short-range empirical potential
   - **Link**: [None](#)
   - **Cite this**: None
   - **Dataset**: [NEP-ZBL](./NEP-ZBL/README.md)
