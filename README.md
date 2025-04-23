@@ -9,9 +9,9 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
   - **Cite this**: *Chem. Mater.* 2024, 36, 23, 11551–11557
   - **Dataset**: [Oxygen_Vacancy](./Oxygen_Vacancy/README.md)
 - **[Paper 2]**  
-  - **Title**: Improving robustness and training efficiency of machine-learned potentials in solid electrolyte materials by incorporating the short-range empirical potential
-  - **Link**: [None](#)
-  - **Cite this**: None
+  - **Title**: Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials
+  - **Link**: [https://doi.org/10.48550/arXiv.2504.15925](https://doi.org/10.48550/arXiv.2504.15925)
+  - **Cite this**: arXiv:2504.15925
   - **Dataset**: [NEP-ZBL](./NEP-ZBL/README.md)
 
 Each folder contains the relevant raw data files, scripts, and any supplementary information needed to reproduce the results from each paper.
