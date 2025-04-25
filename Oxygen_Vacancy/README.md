@@ -2,7 +2,7 @@
 
 This repository includes the original datasets, code, and other materials associated with the paper. The aim is to allow others to reproduce the results and contribute to further research in this area.
 
-- **Paper Title**: Impact of Lithium Nonstoichiometry on Ionic Diffusion in Tetragonal Garnet-Type Li7La3Zr2O12
+- **Paper Title**: Impact of Lithium Nonstoichiometry on Ionic Diffusion in Tetragonal Garnet-Type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>
 - **Authors**: Zihan Yan, and Yizhou Zhu
 - **Cite this**: *Chem. Mater.* 2024, 36, 23, 11551–11557
 - **DOI**: [https://doi.org/10.1021/acs.chemmater.4c02454](https://doi.org/10.1021/acs.chemmater.4c02454)
@@ -20,7 +20,8 @@ If you find this dataset useful for your research, please cite our paper as foll
   number={23},
   pages={11551--11557},
   year={2024},
-  publisher={ACS Publications}
+  publisher={ACS Publications},
+  url={https://doi.org/10.1021/acs.chemmater.4c02454}
 }
 ```
 
