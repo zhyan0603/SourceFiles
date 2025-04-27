@@ -13,6 +13,7 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 <div align="center">
     <img src="./Oxygen_Vacancy/TOC.png" alt="TOC" width="40%" />
 </div>
+
 **Title**: Impact of Lithium Nonstoichiometry on Ionic Diffusion in Tetragonal Garnet-Type Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>
 
 **Link**: [https://doi.org/10.1021/acs.chemmater.4c02454](https://doi.org/10.1021/acs.chemmater.4c02454)
@@ -28,6 +29,7 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 <div align="center">
     <img src="./NEP-ZBL/TOC.png" alt="TOC" width="40%" />
 </div>
+
 **Title**: Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials
 
 **Link**: [https://doi.org/10.48550/arXiv.2504.15925](https://doi.org/10.48550/arXiv.2504.15925)
