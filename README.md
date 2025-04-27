@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🗂️ Research Datasets</h1>
-  <p>Source Files and Scripts of my published research papers</p>
+  <p>Source Files and Scripts of My Published Research Papers</p>
   <a href="mailto:yanzihan@westlake.edu.cn"> <img src="https://img.shields.io/badge/Email-yanzihan@westlake.edu.cn-blue?style=flat-square&logo=email" alt="Email"> </a> <a href="https://scholar.google.com/citations?user=NL8zhZYAAAAJ&hl=zh-CN&authuser=1"> <img src="https://img.shields.io/badge/Google_Scholar-Zihan_Yan-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> <a href="https://www.researchgate.net/profile/Zihan-Yan-7"> <img src="https://img.shields.io/badge/ResearchGate-Zihan_Yan-purple?style=flat-square&logo=researchgate" alt="ResearchGate"> </a> <a href="https://github.com/zhyan0603"> <img src="https://img.shields.io/badge/GitHub-zhyan0603-black?style=flat-square&logo=github" alt="GitHub"> </a> 
 </div>
 
@@ -8,7 +8,7 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 
 ### Available Research Papers:
 
-#### Paper 1
+#### 📖 Paper 1
 
 <div align="center">
     <img src="./Oxygen_Vacancy/TOC.png" alt="TOC" width="40%" />
@@ -24,7 +24,7 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 
 ---
 
-#### Paper 2
+#### 📖 Paper 2
 
 <div align="center">
     <img src="./NEP-ZBL/TOC.png" alt="TOC" width="40%" />
