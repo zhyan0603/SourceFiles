@@ -32,9 +32,9 @@ Welcome to my **Research Datasets**. This repository include the datasets and as
 
 **Title**: Improving robustness and training efficiency of machine-learned potentials by incorporating short-range empirical potentials
 
-**Link**: [https://doi.org/10.48550/arXiv.2504.15925](https://doi.org/10.48550/arXiv.2504.15925)
+**Link**: [https://doi.org/10.1021/acs.jcim.5c02335](https://doi.org/10.1021/acs.jcim.5c02335)
 
-**Cite this**: arXiv:2504.15925
+**Cite this**: *J. Chem. Inf. Model.* 2026, 66, 3, 1406–1413
 
 **Dataset**: [NEP-ZBL](./NEP-ZBL/)
 

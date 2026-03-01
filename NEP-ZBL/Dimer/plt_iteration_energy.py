@@ -23,7 +23,7 @@ ax1.plot(iterations[highlight_iterations], energy_barrier[highlight_iterations],
          's', markersize=12, markeredgecolor='grey', markerfacecolor='none', 
          markeredgewidth=1)
 #ax1.set_ylim(1.5, 3)
-ax1.set_ylabel(r'Energy Barrier (eV)')
+ax1.set_ylabel(r'Breakdown Barrier (eV)')
 ax1.legend(loc='lower right')
 ax1.margins(y=0.15)
 
